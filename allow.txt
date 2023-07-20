@@ -25,3 +25,4 @@ staging-bam.nr-data.net
 js.monitor.azure.com
 browser.events.data.microsoft.com
 target.microsoft.com
+(\.|^)newrelic\.com$
